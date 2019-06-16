@@ -1,3 +1,3 @@
-import { questionAndAnswer  }  from './questionAndAnswer/questionAndAnswer'
+import { QuestionAndAnswer  }  from './questionAndAnswer'
 
-export { questionAndAnswer  }
+export { QuestionAndAnswer  }
