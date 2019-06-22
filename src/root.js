@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Text, View} from 'react-native';
+import { createAppContainer } from 'react-navigation'
 
 export default class Root extends Component {
   render() {
